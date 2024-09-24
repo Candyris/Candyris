@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=candyris&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candyris&hide_progress=true)
 <p align="left">
 </p>
 
